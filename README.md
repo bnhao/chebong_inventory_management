@@ -1,4 +1,3 @@
-# chebong_inventory_management
 # Inventory Management System (DIY)
 A custom-built inventory tracking tool with React TypeScript, Node, and MongoDB.
 
